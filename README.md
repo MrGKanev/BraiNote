@@ -1,3 +1,5 @@
+[![Project Status](https://stillmaintained.com/MrGKanev/BraiNote.png)](https://stillmaintained.com/MrGKanev/BraiNote)
+Textile:
 License
 Copyright 2015 
 
